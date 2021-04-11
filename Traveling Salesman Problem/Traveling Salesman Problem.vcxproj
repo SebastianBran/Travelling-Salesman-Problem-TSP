@@ -21,6 +21,9 @@
   <ItemGroup>
     <ClInclude Include="HeldKarp.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Prueba.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{A4A91E1F-9AAE-476B-ACF2-2B26556A976C}</ProjectGuid>
