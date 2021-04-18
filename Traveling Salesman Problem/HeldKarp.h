@@ -47,6 +47,12 @@ public:
             aux.pop();
         }
     }
+    ~HeldKarp() {
+        nodes.clear();
+        dp.clear();
+        distance.clear();
+        route.clear();
+    }
 
     double getExecutionTime() { return execution_time; } //devuelve el tiempo de ejecucion
     int getCantIterations() { return cant_iterations; } //devuelve la cantidad de iteraciones

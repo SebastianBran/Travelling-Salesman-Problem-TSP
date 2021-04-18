@@ -27,7 +27,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyForm.cpp" />
-    <ClCompile Include="Prueba.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
